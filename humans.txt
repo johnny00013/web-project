@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kelvin Lo 	Kelvinlo002@hotmail.com
 
 # THANKS
 
